@@ -1,0 +1,1782 @@
+{
+   "Afrikaans":{
+      "greetings":[
+         "Hallo (hal-low)"
+      ],
+      "countries":[
+         {
+            "name":"South Africa",
+            "flag":"🇿🇦"
+         },
+         {
+            "name":"Namibia",
+            "flag":"🇳🇦"
+         }
+      ]
+   },
+   "Albanian":{
+      "greetings":[
+         "Përshëndetje (Per-shen-DEAT-ye)",
+         "Tungjatjeta (toon-jah-TYEH-tah)",
+         "Tjeta (TYEH-tah)"
+      ],
+      "countries":[
+         {
+            "name":"Albania",
+            "flag":"🇦🇱"
+         },
+         {
+            "name":"Kosovo",
+            "flag":"🇽🇰"
+         }
+      ]
+   },
+   "Amharic":{
+      "greetings":[
+         "Teanastëllën (teen-as-tell-an)",
+         "Tadiyas",
+         "Sälam"
+      ],
+      "countries":[
+         {
+            "name":"Ethiopia",
+            "flag":"🇪🇹"
+         }
+      ]
+   },
+   "Arabic":{
+      "greetings":[
+         "As-salām ‘alaykum (ahs-sahlahm ‘ah-leh-loom)",
+         "Marhaba (mahr-hah-bah)",
+         "hlan (ah-lahn)"
+      ],
+      "countries":[
+         {
+            "name":"Saudi Arabia",
+            "flag":"🇸🇦"
+         }
+      ]
+   },
+   "Armenian":{
+      "greetings":[
+         "Barev dzez (bah-REV DZEZ)",
+         "Barev (bah-REV)"
+      ],
+      "countries":[
+         {
+            "name":"Armenia",
+            "flag":"🇦🇲"
+         }
+      ]
+   },
+   "Azerbaijani":{
+      "greetings":[
+         "Cалам (sa-laam)",
+         "Salam əleyküm (sa-laam-mu-alaikum)"
+      ],
+      "countries":[
+         {
+            "name":"Azerbaijan",
+            "flag":"🇦🇿"
+         }
+      ]
+   },
+   "Bavarian":{
+      "greetings":[
+         "Servus (SER-VOOS)",
+         "Seavus (SE-ah-VOOS)",
+         "Grüß Gott (gruess got)"
+      ],
+      "countries":[
+         {
+            "name":"Germany",
+            "flag":"🇩🇪"
+         },
+         {
+            "name":"Austria",
+            "flag":"🇦🇹"
+         }
+      ]
+   },
+   "Belarusian":{
+      "greetings":[
+         "Biтаю (vee-tie-you)"
+      ],
+      "countries":[
+         {
+            "name":"Belarus",
+            "flag":"🇧🇾"
+         }
+      ]
+   },
+   "Bengali":{
+      "greetings":[
+         "Nomoshkaar",
+         "Namaskāra"
+      ],
+      "countries":[
+         {
+            "name":"Bangladesh",
+            "flag":"🇧🇩"
+         },
+         {
+            "name":"India",
+            "flag":"🇮🇳"
+         }
+      ]
+   },
+   "Bodo":{
+      "greetings":[
+         "Wai",
+         "Oi",
+         "Oye"
+      ],
+      "countries":[
+         {
+            "name":"India",
+            "flag":"🇮🇳"
+         },
+         {
+            "name":"Nepal",
+            "flag":"🇳🇵"
+         }
+      ]
+   },
+   "Bosnian":{
+      "greetings":[
+         "Dobar dan (DOH-bahr dahn)",
+         "Zdravo (ZDRAH-voh)",
+         "Merhaba (MEHR-hah bah)"
+      ],
+      "countries":[
+         {
+            "name":"Bosnia",
+            "flag":"🇧🇦"
+         },
+         {
+            "name":"Croatia",
+            "flag":"🇭🇷"
+         },
+         {
+            "name":"Serbia",
+            "flag":"🇷🇸"
+         }
+      ]
+   },
+   "Brazilian Portuguese":{
+      "greetings":[
+         "Olá",
+         "Oi"
+      ],
+      "countries":[
+         {
+            "name":"Brazil",
+            "flag":"🇧🇷"
+         }
+      ]
+   },
+   "Breton":{
+      "greetings":[
+         "Demat (de-mat)"
+      ],
+      "countries":[
+         {
+            "name":"France",
+            "flag":"🇫🇷"
+         }
+      ]
+   },
+   "Bulgarian":{
+      "greetings":[
+         "Zdravei",
+         "Zdrasti"
+      ],
+      "countries":[
+         {
+            "name":"Bulgaria",
+            "flag":"🇧🇬"
+         }
+      ]
+   },
+   "Burmese":{
+      "greetings":[
+         "Mingalarba (meen-gah LA-ba)"
+      ],
+      "countries":[
+         {
+            "name":"Myanmar",
+            "flag":"🇲🇲"
+         }
+      ]
+   },
+   "Cambodian Khmer":{
+      "greetings":[
+         "Chum reap suor (jum reap sour)",
+         "Sous-dey"
+      ],
+      "countries":[
+         {
+            "name":"Cambodia",
+            "flag":"🇰🇭"
+         }
+      ]
+   },
+   "Catalan":{
+      "greetings":[
+         "Hola (OH-lah)"
+      ],
+      "countries":[
+         {
+            "name":"Spain",
+            "flag":"🇪🇸"
+         },
+         {
+            "name":"Andorra",
+            "flag":"🇦🇩"
+         }
+      ]
+   },
+   "Chichewa":{
+      "greetings":[
+         "Moni moni onse (mooni-mooni-on-se)"
+      ],
+      "countries":[
+         {
+            "name":"Malawi",
+            "flag":"🇲🇼"
+         },
+         {
+            "name":"Zambia",
+            "flag":"🇿🇲"
+         },
+         {
+            "name":"Mozambique",
+            "flag":"🇲🇿"
+         },
+         {
+            "name":"Zimbabwe",
+            "flag":"🇿🇼"
+         }
+      ]
+   },
+   "Chinese Cantonese":{
+      "greetings":[
+         "Néih hóu"
+      ],
+      "countries":[
+         {
+            "name":"China",
+            "flag":"🇨🇳"
+         }
+      ]
+   },
+   "Chinese Mandarin":{
+      "greetings":[
+         "Nǐ hǎo"
+      ],
+      "countries":[
+         {
+            "name":"China",
+            "flag":"🇨🇳"
+         },
+         {
+            "name":"Taiwan",
+            "flag":"🇹🇼"
+         },
+         {
+            "name":"Singapore",
+            "flag":"🇸🇬"
+         }
+      ]
+   },
+   "Croatian":{
+      "greetings":[
+         "Bok (bohk)",
+         "Dobar dan"
+      ],
+      "countries":[
+         {
+            "name":"Croatia",
+            "flag":"🇭🇷"
+         },
+         {
+            "name":"Bosnia and Herzegovina",
+            "flag":"🇧🇦"
+         },
+         {
+            "name":"Serbia",
+            "flag":"🇷🇸"
+         }
+      ]
+   },
+   "Czech":{
+      "greetings":[
+         "Ahoj (ahoy)",
+         "Dobrý den (DOH-bree dehn)"
+      ],
+      "countries":[
+         {
+            "name":"Czech Republic",
+            "flag":"🇨🇿"
+         }
+      ]
+   },
+   "Danish":{
+      "greetings":[
+         "Hej (Hai)",
+         "Hallo (ha-loh)"
+      ],
+      "countries":[
+         {
+            "name":"Denmark",
+            "flag":"🇩🇰"
+         }
+      ]
+   },
+   "Dutch":{
+      "greetings":[
+         "Hallo (HAAL–oo)",
+         "Goedendag",
+         "Hoi"
+      ],
+      "countries":[
+         {
+            "name":"Netherlands",
+            "flag":"🇳🇱"
+         },
+         {
+            "name":"Belgium",
+            "flag":"🇧🇪"
+         }
+      ]
+   },
+   "Dzongkha":{
+      "greetings":[
+         "Kuzu-zangpo la (koo-zoo-zang-poh-la)"
+      ],
+      "countries":[
+         {
+            "name":"Bhutan",
+            "flag":"🇧🇹"
+         }
+      ]
+   },
+   "English":{
+      "greetings":[
+         "hello"
+      ],
+      "countries":[
+         {
+            "name":"England",
+            "flag":"🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         },
+         {
+            "name":"United States of America",
+            "flag":"🇺🇸"
+         },
+         {
+            "name":"Australia",
+            "flag":"🇦🇺"
+         },
+         {
+            "name":"New Zealand",
+            "flag":"🇳🇿"
+         },
+         {
+            "name":"Ireland",
+            "flag":"🇮🇪"
+         }
+      ]
+   },
+   "Estonian":{
+      "greetings":[
+         "Tere (TEHR-reh)"
+      ],
+      "countries":[
+         {
+            "name":"Estonia",
+            "flag":"🇪🇪"
+         }
+      ]
+   },
+   "Persian":{
+      "greetings":[
+         "Salām",
+         "Dorood bar to",
+         "Dorood bar shoma"
+      ],
+      "countries":[
+         {
+            "name":"Iran",
+            "flag":"🇮🇷"
+         },
+         {
+            "name":"Afghanistan",
+            "flag":"🇦🇫"
+         },
+         {
+            "name":"Tajikistan",
+            "flag":"🇹🇯"
+         }
+      ]
+   },
+   "Fijian":{
+      "greetings":[
+         "Bula (mbula)"
+      ],
+      "countries":[
+         {
+            "name":"Fiji",
+            "flag":"🇫🇯"
+         }
+      ]
+   },
+   "Finnish":{
+      "greetings":[
+         "Hyvää päivää (HUU-vaa PAI-vaah)",
+         "Hei (hay)",
+         "Terve (TEHR-ve)",
+         "Moi (Moy)"
+      ],
+      "countries":[
+         {
+            "name":"Finland",
+            "flag":"🇫🇮"
+         }
+      ]
+   },
+   "French":{
+      "greetings":[
+         "Bonjour",
+         "Salut (sah-LUU)",
+         "Coucou"
+      ],
+      "countries":[
+         {
+            "name":"France",
+            "flag":"🇫🇷"
+         }
+      ]
+   },
+   "Frisian":{
+      "greetings":[
+         "Goeie (GOO-ee)"
+      ],
+      "countries":[
+         {
+            "name":"Netherlands",
+            "flag":"🇳🇱"
+         },
+         {
+            "name":"Germany",
+            "flag":"🇩🇪"
+         }
+      ]
+   },
+   "Georgian":{
+      "greetings":[
+         "Miesalmebi",
+         "Gah-mahr-joh-bah"
+      ],
+      "countries":[
+         {
+            "name":"Georgia",
+            "flag":"🇬🇪"
+         }
+      ]
+   },
+   "German":{
+      "greetings":[
+         "Hallo",
+         "Tag (tahg)",
+         "Guten tag"
+      ],
+      "countries":[
+         {
+            "name":"Germany",
+            "flag":"🇩🇪"
+         },
+         {
+            "name":"Austria",
+            "flag":"🇦🇹"
+         },
+         {
+            "name":"Switzerland",
+            "flag":"🇨🇭"
+         }
+      ]
+   },
+   "Greek":{
+      "greetings":[
+         "Xαίρε (chai-ray)",
+         "Yassas (YAH sahss)",
+         "Yassou (YAH soo)"
+      ],
+      "countries":[
+         {
+            "name":"Greece",
+            "flag":"🇬🇷"
+         },
+         {
+            "name":"Cyprus",
+            "flag":"🇨🇾"
+         }
+      ]
+   },
+   "Gujarati":{
+      "greetings":[
+         "Namaskaar",
+         "Namaste (nah-mah-steh)",
+         "Kem cho (kem-choh)"
+      ],
+      "countries":[
+         {
+            "name":"India",
+            "flag":"🇮🇳"
+         }
+      ]
+   },
+   "Haitian Creole":{
+      "greetings":[
+         "Alo",
+         "Bonjou (BOH-joo)",
+         "Sak pase (sak-pase)"
+      ],
+      "countries":[
+         {
+            "name":"Haiti",
+            "flag":"🇭🇹"
+         }
+      ]
+   },
+   "Hausa":{
+      "greetings":[
+         "Sannu (san-NU)"
+      ],
+      "countries":[
+         {
+            "name":"Nigeria",
+            "flag":"🇳🇬"
+         },
+         {
+            "name":"Niger",
+            "flag":"🇳🇪"
+         },
+         {
+            "name":"Benin",
+            "flag":"🇧🇯"
+         },
+         {
+            "name":"Burkina Faso",
+            "flag":"🇧🇫"
+         },
+         {
+            "name":"Cameroon",
+            "flag":"🇨🇲"
+         },
+         {
+            "name":"Central African Republic",
+            "flag":"🇨🇫"
+         },
+         {
+            "name":"Chad",
+            "flag":"🇹🇩"
+         },
+         {
+            "name":"Eritrea",
+            "flag":"🇪🇷"
+         },
+         {
+            "name":"Ghana",
+            "flag":"🇬🇭"
+         },
+         {
+            "name":"Sudan",
+            "flag":"🇸🇩"
+         },
+         {
+            "name":"Togo",
+            "flag":"🇹🇬"
+         }
+      ]
+   },
+   "Hawaiian":{
+      "greetings":[
+         "Aloha"
+      ],
+      "countries":[
+         {
+            "name":"United States of America",
+            "flag":"🇺🇸"
+         }
+      ]
+   },
+   "Hebrew":{
+      "greetings":[
+         "Shalom (shah-LOHM)",
+         "Ma korae"
+      ],
+      "countries":[
+         {
+            "name":"Israel",
+            "flag":"🇮🇱"
+         }
+      ]
+   },
+   "Hindi":{
+      "greetings":[
+         "Namaste (Nah-mas-teh)"
+      ],
+      "countries":[
+         {
+            "name":"India",
+            "flag":"🇮🇳"
+         }
+      ]
+   },
+   "Hmong":{
+      "greetings":[
+         "Nyob zoo"
+      ],
+      "countries":[
+         {
+            "name":"China",
+            "flag":"🇨🇳"
+         },
+         {
+            "name":"Vietnam",
+            "flag":"🇻🇳"
+         },
+         {
+            "name":"Laos",
+            "flag":"🇱🇦"
+         },
+         {
+            "name":"Thailand",
+            "flag":"🇹🇭"
+         },
+         {
+            "name":"French Guiana",
+            "flag":"🇬🇫"
+         }
+      ]
+   },
+   "Hopi":{
+      "greetings":[
+         "Ha’u (hah-uh)",
+         "Waynuma"
+      ],
+      "countries":[
+         {
+            "name":"United States of America",
+            "flag":"🇺🇸"
+         }
+      ]
+   },
+   "Hungarian":{
+      "greetings":[
+         "Jó napot (yoe naupote)",
+         "Szervusz (SEHR-voos)",
+         "Szia (SEE-ah)"
+      ],
+      "countries":[
+         {
+            "name":"Hungary",
+            "flag":"🇭🇺"
+         }
+      ]
+   },
+   "Icelandic":{
+      "greetings":[
+         "Halló (hal-law)",
+         "Góðan dag (gothan dahg)",
+         "Hæ (hai)"
+      ],
+      "countries":[
+         {
+            "name":"Iceland",
+            "flag":"🇮🇸"
+         }
+      ]
+   },
+   "Indonesian Bahasa":{
+      "greetings":[
+         "Halo (HAH-loh)",
+         "Hai (high)"
+      ],
+      "countries":[
+         {
+            "name":"Indonesia",
+            "flag":"🇮🇩"
+         }
+      ]
+   },
+   "Italian":{
+      "greetings":[
+         "Ciao (chow)",
+         "Buon giorno (bwohn JOHR-noh",
+         "Salve (SAHL-veh)",
+         "Pronto"
+      ],
+      "countries":[
+         {
+            "name":"Italy",
+            "flag":"🇮🇹"
+         }
+      ]
+   },
+   "Japanese":{
+      "greetings":[
+         "Kon’nichiwa (kohn-nee-chee-wah)"
+      ],
+      "countries":[
+         {
+            "name":"Japan",
+            "flag":"🇯🇵"
+         }
+      ]
+   },
+   "Kannada":{
+      "greetings":[
+         "Namaskār"
+      ],
+      "countries":[
+         {
+            "name":"India",
+            "flag":"🇮🇳"
+         }
+      ]
+   },
+   "Kazakh":{
+      "greetings":[
+         "Sälem (sah-lem)",
+         "Sälemetsiz be (sah-lem-met-siz beh)",
+         "Assalamu aleikum (as-sa-laamu a-lay-kum)"
+      ],
+      "countries":[
+         {
+            "name":"Kazakhstan",
+            "flag":"🇰🇿"
+         }
+      ]
+   },
+   "Korean":{
+      "greetings":[
+         "Anyeong haseyo (AHN-young-ha-say-yo)",
+         "Anyoung (AHN-young)"
+      ],
+      "countries":[
+         {
+            "name":"South Korea",
+            "flag":"🇰🇷"
+         },
+         {
+            "name":"North Korea",
+            "flag":"🇰🇵"
+         }
+      ]
+   },
+   "Kurdish":{
+      "greetings":[
+         "Silav (slaw)",
+         "As-salaamu’ alaykum"
+      ],
+      "countries":[
+         {
+            "name":"Iraq",
+            "flag":"🇮🇶"
+         },
+         {
+            "name":"Turkey",
+            "flag":"🇹🇷"
+         },
+         {
+            "name":"Iran",
+            "flag":"🇮🇷"
+         },
+         {
+            "name":"Syria",
+            "flag":"🇸🇾"
+         }
+      ]
+   },
+   "Kyrgyz":{
+      "greetings":[
+         "Salamatsyzby (sah-lam-aht-seez-bee)",
+         "Salam (sah-lam)"
+      ],
+      "countries":[
+         {
+            "name":"Kyrgyzstan",
+            "flag":"🇰🇬"
+         },
+         {
+            "name":"Tajikistan",
+            "flag":"🇹🇯"
+         },
+         {
+            "name":"Afghanistan",
+            "flag":"🇦🇫"
+         },
+         {
+            "name":"Turkey",
+            "flag":"🇹🇷"
+         }
+      ]
+   },
+   "Lao":{
+      "greetings":[
+         "ສະບາຍດີ (sa-baai-di)"
+      ],
+      "countries":[
+         {
+            "name":"Laos",
+            "flag":"🇱🇦"
+         }
+      ]
+   },
+   "Latvian":{
+      "greetings":[
+         "sveiki (SVYEH-kah)",
+         "sveiks (SVEH-eeks)"
+      ],
+      "countries":[
+         {
+            "name":"Latvia",
+            "flag":"🇱🇻"
+         }
+      ]
+   },
+   "Limburgish":{
+      "greetings":[
+         "hallau",
+         "hoi",
+         "daag"
+      ],
+      "countries":[
+         {
+            "name":"Netherlands",
+            "flag":"🇳🇱"
+         },
+         {
+            "name":"Belgium",
+            "flag":"🇧🇪"
+         }
+      ]
+   },
+   "Lingala":{
+      "greetings":[
+         "Mbote (mboh-teh)"
+      ],
+      "countries":[
+         {
+            "name":"Democratic Republic of the Congo",
+            "flag":"🇨🇩"
+         },
+         {
+            "name":"Republic of the Congo",
+            "flag":"🇨🇬"
+         }
+      ]
+   },
+   "Lithuanian":{
+      "greetings":[
+         "Laba diena"
+      ],
+      "countries":[
+         {
+            "name":"Lithuania",
+            "flag":"🇱🇹"
+         }
+      ]
+   },
+   "Luxembourgish":{
+      "greetings":[
+         "Moïen (MOY-en)"
+      ],
+      "countries":[
+         {
+            "name":"Luxembourg",
+            "flag":"🇱🇺"
+         }
+      ]
+   },
+   "Luganda":{
+      "greetings":[
+         "Ki kati (chi kati)"
+      ],
+      "countries":[
+         {
+            "name":"Uganda",
+            "flag":"🇺🇬"
+         }
+      ]
+   },
+   "Macedonian":{
+      "greetings":[
+         "Здраво zdravo — hello"
+      ],
+      "countries":[
+         {
+            "name":"Macedonia",
+            "flag":"🇲🇰"
+         }
+      ]
+   },
+   "Malagasy":{
+      "greetings":[
+         "Salama (sah-lAHm-ah)"
+      ],
+      "countries":[
+         {
+            "name":"Madagascar",
+            "flag":"🇲🇬"
+         }
+      ]
+   },
+   "Malay":{
+      "greetings":[
+         "Hello (he-loh)",
+         "Hai (hai)",
+         "Selamat pagi (suh-lah-mat puh-guee)"
+      ],
+      "countries":[
+         {
+            "name":"Malaysia",
+            "flag":"🇲🇾"
+         },
+         {
+            "name":"Brunei",
+            "flag":"🇧🇳"
+         }
+      ]
+   },
+   "Malayalam":{
+      "greetings":[
+         "Halēā",
+         "Namaskkaram (nah-mah-skahr-ahm)"
+      ],
+      "countries":[
+         {
+            "name":"India",
+            "flag":"🇮🇳"
+         }
+      ]
+   },
+   "Maltese":{
+      "greetings":[
+         "Bongu (Ħelow)"
+      ],
+      "countries":[
+         {
+            "name":"Malta",
+            "flag":"🇲🇹"
+         }
+      ]
+   },
+   "Maori":{
+      "greetings":[
+         "Kia ora",
+         "Tēnā koe (teh-nah koy)"
+      ],
+      "countries":[
+         {
+            "name":"New Zealand",
+            "flag":"🇳🇿"
+         }
+      ]
+   },
+   "Marathi":{
+      "greetings":[
+         "Namaskār"
+      ],
+      "countries":[
+         {
+            "name":"India",
+            "flag":"🇮🇳"
+         }
+      ]
+   },
+   "Marshallese":{
+      "greetings":[
+         "Yokwe (YAW-kweh)"
+      ],
+      "countries":[
+         {
+            "name":"Marshall Islands",
+            "flag":"🇲🇭"
+         }
+      ]
+   },
+   "Mongolian":{
+      "greetings":[
+         "Sain baina uu (sain bai-na-oo)",
+         "Sain uu (say-noo)"
+      ],
+      "countries":[
+         {
+            "name":"Mongolia",
+            "flag":"🇲🇳"
+         }
+      ]
+   },
+   "Nepali":{
+      "greetings":[
+         "Namaste (nah-mahs-teh)"
+      ],
+      "countries":[
+         {
+            "name":"Nepal",
+            "flag":"🇳🇵"
+         }
+      ]
+   },
+   "Northern Sotho":{
+      "greetings":[
+         "Dumela (doo-MAY-lah)",
+         "Khotso (coat-so)"
+      ],
+      "countries":[
+         {
+            "name":"South Africa",
+            "flag":"🇿🇦"
+         }
+      ]
+   },
+   "Norwegian":{
+      "greetings":[
+         "Hei",
+         "Hallo",
+         "halla"
+      ],
+      "countries":[
+         {
+            "name":"Norway",
+            "flag":"🇳🇴"
+         }
+      ]
+   },
+   "Odia":{
+      "greetings":[
+         "Namaskār"
+      ],
+      "countries":[
+         {
+            "name":"India",
+            "flag":"🇮🇳"
+         }
+      ]
+   },
+   "Oromo":{
+      "greetings":[
+         "Akkam"
+      ],
+      "countries":[
+         {
+            "name":"Ethiopia",
+            "flag":"🇪🇹"
+         },
+         {
+            "name":"Kenya",
+            "flag":"🇰🇪"
+         },
+         {
+            "name":"Somalia",
+            "flag":"🇸🇴"
+         },
+         {
+            "name":"Egypt",
+            "flag":"🇪🇬"
+         }
+      ]
+   },
+   "Pashto":{
+      "greetings":[
+         "Salam",
+         "Khe chare (KHEH chah-reh)"
+      ],
+      "countries":[
+         {
+            "name":"Afghanistan",
+            "flag":"🇦🇫"
+         },
+         {
+            "name":"Pakistan",
+            "flag":"🇵🇰"
+         },
+         {
+            "name":"Iran",
+            "flag":"🇮🇷"
+         }
+      ]
+   },
+   "Polish":{
+      "greetings":[
+         "Cześć (cheshch)",
+         "Siema",
+         "Hej"
+      ],
+      "countries":[
+         {
+            "name":"Poland",
+            "flag":"🇵🇱"
+         }
+      ]
+   },
+   "Portugese":{
+      "greetings":[
+         "Olá (oh-LAH)",
+         "Oi",
+         "Bom dia"
+      ],
+      "countries":[
+         {
+            "name":"Portugal",
+            "flag":"🇵🇹"
+         },
+         {
+            "name":"Brazil",
+            "flag":"🇧🇷"
+         },
+         {
+            "name":"Cape Verde ",
+            "flag":"🇨🇻"
+         },
+         {
+            "name":"Guinea-Bissau",
+            "flag":"🇬🇼"
+         },
+         {
+            "name":"Angola",
+            "flag":"🇦🇴"
+         },
+         {
+            "name":"Mozambique",
+            "flag":"🇲🇿"
+         },
+         {
+            "name":"East Timor",
+            "flag":"🇹🇱"
+         },
+         {
+            "name":"Macao",
+            "flag":"🇲🇴"
+         }
+      ]
+   },
+   "Punjabi":{
+      "greetings":[
+         "Sata sri akaal (saht sree ah-kahl)",
+         "As-alam-walaykum (ah-sah-lahm-wah-lay-koom)"
+      ],
+      "countries":[
+         {
+            "name":"India",
+            "flag":"🇮🇳"
+         }
+      ]
+   },
+   "Romanian":{
+      "greetings":[
+         "Bună (BOO-nuh)",
+         "Salut (sah-LOOT)"
+      ],
+      "countries":[
+         {
+            "name":"Romania",
+            "flag":"🇷🇴"
+         },
+         {
+            "name":"Moldova",
+            "flag":"🇲🇩"
+         }
+      ]
+   },
+   "Russian":{
+      "greetings":[
+         "Zdravstvuyte (ZDRA-stvooy-tyeh)",
+         "Zdorovo (zduh-ROH-vuh)",
+         "привет privet (pree-VYEHT)"
+      ],
+      "countries":[
+         {
+            "name":"Russia",
+            "flag":"🇷🇺"
+         },
+         {
+            "name":"Belarus",
+            "flag":"🇧🇾"
+         },
+         {
+            "name":"Kazakhstan",
+            "flag":"🇰🇿"
+         },
+         {
+            "name":"Kyrgyzstan",
+            "flag":"🇰🇬"
+         }
+      ]
+   },
+   "Samoan":{
+      "greetings":[
+         "Talofa (tah-low-fah)"
+      ],
+      "countries":[
+         {
+            "name":"Samoa",
+            "flag":"🇼🇸"
+         },
+         {
+            "name":"American Samoa",
+            "flag":"🇦🇸"
+         }
+      ]
+   },
+   "Scottish Gaelic":{
+      "greetings":[
+         "Haló (ha-LAW)"
+      ],
+      "countries":[
+         {
+            "name":"Scotland",
+            "flag":"🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+         }
+      ]
+   },
+   "Serbian":{
+      "greetings":[
+         "Zdravo (ZDRAH-voh)",
+         "ćao (chow)"
+      ],
+      "countries":[
+         {
+            "name":"Serbia",
+            "flag":"🇷🇸"
+         },
+         {
+            "name":"Bosnia and Herzegovina",
+            "flag":"🇧🇦"
+         },
+         {
+            "name":"Montenegro",
+            "flag":"🇲🇪"
+         },
+         {
+            "name":"Croatia",
+            "flag":"🇭🇷"
+         },
+         {
+            "name":"Macedonia",
+            "flag":"🇲🇰"
+         }
+      ]
+   },
+   "Sesotho":{
+      "greetings":[
+         "Dumela (doo-meh-lah)"
+      ],
+      "countries":[
+         {
+            "name":"Lesotho",
+            "flag":"🇱🇸"
+         },
+         {
+            "name":"South Africa",
+            "flag":"🇿🇦"
+         },
+         {
+            "name":"Zimbabwe",
+            "flag":"🇿🇼"
+         }
+      ]
+   },
+   "Shona":{
+      "greetings":[
+         "Mhoro"
+      ],
+      "countries":[
+         {
+            "name":"Zimbabwe",
+            "flag":"🇿🇼"
+         }
+      ]
+   },
+   "Sinhala":{
+      "greetings":[
+         "āyubōvan (ah-yuh-boh-van)",
+         "Halō (ha-loh)"
+      ],
+      "countries":[
+         {
+            "name":"Sri Lanka",
+            "flag":"🇱🇰"
+         }
+      ]
+   },
+   "Slovak":{
+      "greetings":[
+         "Ahoj (AH-hoy)",
+         "Dobrý deň (dOH-bree deñ)"
+      ],
+      "countries":[
+         {
+            "name":"Slovakia",
+            "flag":"🇸🇰"
+         }
+      ]
+   },
+   "Slovenian":{
+      "greetings":[
+         "Zdravo (ZDRAH-voh)",
+         "živjo (ZHEE-vyoh)"
+      ],
+      "countries":[
+         {
+            "name":"Slovenia",
+            "flag":"🇸🇮"
+         }
+      ]
+   },
+   "Somali":{
+      "greetings":[
+         "Salaam alaykum"
+      ],
+      "countries":[
+         {
+            "name":"Somalia",
+            "flag":"🇸🇴"
+         }
+      ]
+   },
+   "Spanish":{
+      "greetings":[
+         "Hola (O-laa)"
+      ],
+      "countries":[
+         {
+            "name":"Spain",
+            "flag":"🇪🇸"
+         },
+         {
+            "name":"Mexico",
+            "flag":"🇲🇽"
+         }
+      ]
+   },
+   "Sundanese":{
+      "greetings":[
+         "Halo",
+         "Sampurasun"
+      ],
+      "countries":[
+         {
+            "name":"Indonesia",
+            "flag":"🇮🇩"
+         }
+      ]
+   },
+   "Swabian German":{
+      "greetings":[
+         "Grüss gott"
+      ],
+      "countries":[
+         {
+            "name":"Germany",
+            "flag":"🇩🇪"
+         },
+         {
+            "name":"Hungary",
+            "flag":"🇭🇺"
+         },
+         {
+            "name":"Romania",
+            "flag":"🇷🇴"
+         }
+      ]
+   },
+   "Swahili":{
+      "greetings":[
+         "Hujambo",
+         "Jambo"
+      ],
+      "countries":[
+         {
+            "name":"Kenya",
+            "flag":"🇰🇪"
+         },
+         {
+            "name":"Tanzania",
+            "flag":"🇹🇿"
+         },
+         {
+            "name":"Uganda",
+            "flag":"🇺🇬"
+         },
+         {
+            "name":"Rwanda",
+            "flag":"🇷🇼"
+         },
+         {
+            "name":"Burundi",
+            "flag":"🇧🇮"
+         },
+         {
+            "name":"Mozambique",
+            "flag":"🇲🇿"
+         },
+         {
+            "name":"Democratic Republic of the Congo",
+            "flag":"🇨🇩"
+         }
+      ]
+   },
+   "Swati":{
+      "greetings":[
+         "Sawubona (sah-woo-boh-nah)"
+      ],
+      "countries":[
+         {
+            "name":"Eswatini",
+            "flag":"🇸🇿"
+         },
+         {
+            "name":"South Africa",
+            "flag":"🇿🇦"
+         }
+      ]
+   },
+   "Swedish":{
+      "greetings":[
+         "Hej",
+         "Hallå"
+      ],
+      "countries":[
+         {
+            "name":"Sweden",
+            "flag":"🇸🇪"
+         },
+         {
+            "name":"Åland Islands",
+            "flag":"🇦🇽"
+         }
+      ]
+   },
+   "Swiss German":{
+      "greetings":[
+         "Hoi",
+         "Grüezi"
+      ],
+      "countries":[
+         {
+            "name":"Switzerland",
+            "flag":"🇨🇭"
+         },
+         {
+            "name":"Liechtenstein",
+            "flag":"🇱🇮"
+         }
+      ]
+   },
+   "Tagalog Filipino":{
+      "greetings":[
+         "Kumusta (koo-moos-tah)",
+         "Helów (hey-LOW)"
+      ],
+      "countries":[
+         {
+            "name":"Philippines",
+            "flag":"🇵🇭"
+         }
+      ]
+   },
+   "Tahitian":{
+      "greetings":[
+         "Ia ora na (ee-ah oh-rah-na)"
+      ],
+      "countries":[
+         {
+            "name":"French Polynesia",
+            "flag":"🇵🇫"
+         }
+      ]
+   },
+   "Taiwanese Hokkien":{
+      "greetings":[
+         "Lí-hó (lee-hoh)"
+      ],
+      "countries":[
+         {
+            "name":"Taiwan",
+            "flag":"🇹🇼"
+         }
+      ]
+   },
+   "Tajik":{
+      "greetings":[
+         "cалом (sah-lohm)",
+         "ассалом (a-sah-lohm)",
+         "ассалому алейкум (asah-lomu ah-lay-koom)"
+      ],
+      "countries":[
+         {
+            "name":"Tajikistan",
+            "flag":"🇹🇯"
+         }
+      ]
+   },
+   "Tamil":{
+      "greetings":[
+         "Vanakkam (Vaa–NaK–Kam)"
+      ],
+      "countries":[
+         {
+            "name":"India",
+            "flag":"🇮🇳"
+         },
+         {
+            "name":"Sri Lanka",
+            "flag":"🇱🇰"
+         }
+      ]
+   },
+   "Telugu":{
+      "greetings":[
+         "Namaskāram"
+      ],
+      "countries":[
+         {
+            "name":"India",
+            "flag":"🇮🇳"
+         }
+      ]
+   },
+   "Thai":{
+      "greetings":[
+         "Sawasdee krap (sa-wat-dii-krap)",
+         "Sawasdee ka (sa-wat-dii-kha)"
+      ],
+      "countries":[
+         {
+            "name":"Thailand",
+            "flag":"🇹🇭"
+         }
+      ]
+   },
+   "Tibetan":{
+      "greetings":[
+         "Tashi delek (tah-shee del-ek)"
+      ],
+      "countries":[
+         {
+            "name":"China",
+            "flag":"🇨🇳"
+         }
+      ]
+   },
+   "Tsalagi Cherokee":{
+      "greetings":[
+         "Osiyo"
+      ],
+      "countries":[
+         {
+            "name":"United States of America",
+            "flag":"🇺🇸"
+         }
+      ]
+   },
+   "Tsonga":{
+      "greetings":[
+         "Minjhani"
+      ],
+      "countries":[
+         {
+            "name":"South Africa",
+            "flag":"🇿🇦"
+         },
+         {
+            "name":"Mozambique",
+            "flag":"🇲🇿"
+         },
+         {
+            "name":"Eswatini",
+            "flag":"🇸🇿"
+         }
+      ]
+   },
+   "Tswana":{
+      "greetings":[
+         "Dumela (doo-meh-lah)"
+      ],
+      "countries":[
+         {
+            "name":"Botswana",
+            "flag":"🇧🇼"
+         },
+         {
+            "name":"Namibia",
+            "flag":"🇳🇦"
+         },
+         {
+            "name":"Zimbabwe",
+            "flag":"🇿🇼"
+         },
+         {
+            "name":"South Africa",
+            "flag":"🇿🇦"
+         }
+      ]
+   },
+   "Turkish":{
+      "greetings":[
+         "Merhaba (mehr hah bah)",
+         "Selam (sell um)"
+      ],
+      "countries":[
+         {
+            "name":"Turkey",
+            "flag":"🇹🇷"
+         },
+         {
+            "name":"Cyprus",
+            "flag":"🇨🇾"
+         }
+      ]
+   },
+   "Ukrainian":{
+      "greetings":[
+         "Dobriy den (DOH-brihy dehn)",
+         "Vitayu (vee-TAH-yoo)",
+         "Pryvit (prih-VEET)"
+      ],
+      "countries":[
+         {
+            "name":"Ukraine",
+            "flag":"🇺🇦"
+         }
+      ]
+   },
+   "Urdu":{
+      "greetings":[
+         "Assalamu Alaikum"
+      ],
+      "countries":[
+         {
+            "name":"Pakistan",
+            "flag":"🇵🇰"
+         }
+      ]
+   },
+   "Uzbek":{
+      "greetings":[
+         "Assalomu alaykum",
+         "Salom"
+      ],
+      "countries":[
+         {
+            "name":"Uzbekistan",
+            "flag":"🇺🇿"
+         }
+      ]
+   },
+   "Vietnamese":{
+      "greetings":[
+         "Xin chào (sin CHOW)",
+         "Chào bạn"
+      ],
+      "countries":[
+         {
+            "name":"Vietnam",
+            "flag":"🇻🇳"
+         }
+      ]
+   },
+   "Welsh":{
+      "greetings":[
+         "Helo",
+         "Shwmae (shoe-my)",
+         "Sut mae (sit my)"
+      ],
+      "countries":[
+         {
+            "name":"Wales",
+            "flag":"🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+         }
+      ]
+   },
+   "Woiworung":{
+      "greetings":[
+         "Womenjeka (woh-men-je-kah)"
+      ],
+      "countries":[
+         {
+            "name":"Australia",
+            "flag":"🇦🇺"
+         }
+      ]
+   },
+   "Xhosa":{
+      "greetings":[
+         "Molo"
+      ],
+      "countries":[
+         {
+            "name":"South Africa",
+            "flag":"🇿🇦"
+         }
+      ]
+   },
+   "Yoruba":{
+      "greetings":[
+         "Bawo ni"
+      ],
+      "countries":[
+         {
+            "name":"Nigeria",
+            "flag":"🇳🇬"
+         },
+         {
+            "name":"Benin",
+            "flag":"🇧🇯"
+         },
+         {
+            "name":"Sierra Leone",
+            "flag":"🇸🇱"
+         },
+         {
+            "name":"Liberia",
+            "flag":"🇱🇷"
+         }
+      ]
+   },
+   "Zulu":{
+      "greetings":[
+         "Sawubona (sah-woo-boh-nah)"
+      ],
+      "countries":[
+         {
+            "name":"South Africa",
+            "flag":"🇿🇦"
+         },
+         {
+            "name":"Botswana",
+            "flag":"🇧🇼"
+         },
+         {
+            "name":"Lesotho",
+            "flag":"🇱🇸"
+         },
+         {
+            "name":"Malawi",
+            "flag":"🇲🇼"
+         },
+         {
+            "name":"Mozambique",
+            "flag":"🇲🇿"
+         },
+         {
+            "name":"Eswatini",
+            "flag":"🇸🇿"
+         }
+      ]
+   }
+}

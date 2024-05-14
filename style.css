@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background-color: #edede9;
+}
+
+#main {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body p {
+    color: #0d1b2a;
+}
+
+#current-greeting {
+    font-style: italic;
+    color: #415a77;
+}
+
+#rand-btn {
+    padding: 8px;
+}
+
+#search-bar{ 
+    padding: 8px; 
+    border-radius: 10px;
+    float: left;
+    margin-right: 10px;
+} 
+
+#boxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
